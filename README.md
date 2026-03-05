@@ -1,6 +1,6 @@
 # Marcos Vinícius
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header"/>
-Me chamo Marcos Vinícius Soares Guimarães, tenho 19 anos e sou natural de Belo Horizonte, Minas Gerais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUC Minas – São Gabriel. Tenho grande interesse por tecnologia e programação, e estou sempre buscando aprimorar minhas habilidades como desenvolvedor.
+Me chamo Marcos Vinícius Soares Guimarães, tenho 20 anos e sou natural de Belo Horizonte, Minas Gerais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUC Minas – São Gabriel. Tenho grande interesse por tecnologia e programação, e estou sempre buscando aprimorar minhas habilidades como desenvolvedor.
 Aqui no GitHub compartilho projetos e estudos que fazem parte da minha jornada na programação, principalmente utilizando C#. Meu objetivo é evoluir constantemente como desenvolvedor, aprimorar minhas práticas de programação e construir soluções que possam gerar impacto positivo.
 
 ---
