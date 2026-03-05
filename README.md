@@ -1,4 +1,5 @@
 # Marcos Vinícius
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=header"/>
 
 Me chamo Marcos Vinícius Soares Guimarães, tenho 19 anos e sou natural de Belo Horizonte, Minas Gerais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUC Minas – São Gabriel. Tenho grande interesse por tecnologia e programação, e estou sempre buscando aprimorar minhas habilidades como desenvolvedor.
 Aqui no GitHub compartilho projetos e estudos que fazem parte da minha jornada na programação, principalmente utilizando C#. Meu objetivo é evoluir constantemente como desenvolvedor, aprimorar minhas práticas de programação e construir soluções que possam gerar impacto positivo.
@@ -69,21 +70,13 @@ Aqui no GitHub compartilho projetos e estudos que fazem parte da minha jornada n
 
 ### 📊 Estatísticas
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-
-<p>
+<div>
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=marcos-vsg95&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=marcos-vsg95&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-vsg95&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcos-vsg95&theme=tokyonight&layout=compact&langs_count=9"
   />
-
-</p>
+</div>
